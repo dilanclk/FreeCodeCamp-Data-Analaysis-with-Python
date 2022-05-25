@@ -1,4 +1,4 @@
-# FreeCodeCamp-Data-Analaysis-with-Python
+# FreeCodeCamp-Data-Analysis-with-Python
 # Context
 My Data Anaysis projects that I've completed with FreeCodeCamp's Data Analysis Python Certificate
 
